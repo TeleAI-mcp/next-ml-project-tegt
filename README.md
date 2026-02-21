@@ -1,2 +1,3 @@
-# next-ml-project-tegt
-A machine learning project for modern development workflows
+# Next Ml Project Tegt
+ 
+A machine learning project for modern development workflows.
